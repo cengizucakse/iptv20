@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1055", trt 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="2970", TRT 2
+https://tv-trt2.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="1080", trt haber
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="989", trt turk
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="978", DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="1058", trt muzik
+https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.tarimtv.gov.tr/uploads/logo/logo-tarim-31FnQ2ZNL1.png" aspect-ratio="16:9" size="Big" background="https://www.tarimtv.gov.tr/uploads/logo/logo-tarim-31FnQ2ZNL1.png", tarim
+https://usd.nocvp.com/asset/7Gx7kEbk/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="3999", Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1059", TRT COCUK
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="1078", NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="4120", EXPRESSEN TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8?fluxustv.m3u8
